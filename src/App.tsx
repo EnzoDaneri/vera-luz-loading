@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <h1>vera luz</h1>
+      <h1>Vera Luz</h1>
       <div className="container">
         {loading && <div className="spinner"></div>}
       </div>
